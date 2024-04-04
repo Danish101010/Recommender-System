@@ -18,9 +18,10 @@ The recommender system is implemented using Python programming language and vari
 ### Steps:
 1. Data Collection: Gathered movie metadata and user-item interaction data from suitable sources.
 2. Data Preprocessing: Cleaned and preprocessed the data to remove inconsistencies and prepare it for analysis.
-3. Feature Extraction: Utilized Autoencoders and factorization techniques to extract relevant features from movie metadata.
-4. Model Development: Implemented content-based and collaborative filtering models using appropriate machine learning algorithms.
-5. Evaluation: Tested the models using metrics such as precision, recall, and mean absolute error to assess their accuracy and effectiveness.
+3. EDA : Did Comprehensive exploratory data analysis on MovieLens Dataset.
+4. Feature Extraction: Utilized Autoencoders and factorization techniques to extract relevant features from movie metadata.
+5. Model Development: Implemented content-based and collaborative filtering models using appropriate machine learning algorithms.
+6. Evaluation: Tested the models using metrics such as precision, recall, and mean absolute error to assess their accuracy and effectiveness.
    
 ## Future Improvements
 - Incorporate hybrid recommender system techniques combining content-based and collaborative filtering approaches.
